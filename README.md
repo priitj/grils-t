@@ -67,3 +67,10 @@ Helper scripts
 --------------
 
 Outdated `runtests.sh` and `test.bash` are included as they can be helpful in providing a starting point for automated tests. Both will require fixing and tweaking to match the current version of the Python scripts and the local implementation of MPI.
+
+Licence
+-------
+
+This work is copyright protected. All rights reserved, except:
+
+you may download and use this code for non-commercial purposes, including reproducing test results as part of academic peer review process. The right to use does not extend to redistributing the code in original or modified form.
